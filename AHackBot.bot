@@ -1,0 +1,52 @@
+{
+  "name": "AHackBot",
+  "padlock": "0dPiNZtN7i7FxBLeLlLzXw==!miNjx6ZnI+JmrnjNIBb+tFv3y8WinhOgAAUhRZvi5lhSb1iKF7bsZHP92tomBfYd",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "6274c9d1-e379-4ae2-8e3d-4d380156d900",
+      "resourceGroup": "v4testbot",
+      "serviceName": "AHackBot",
+      "type": "abs",
+      "name": "AHackBot",
+      "id": "1"
+    },
+    {
+      "connectionString": "rtCrzVyAZJZH13f4ciuCgw==!7/yXEWwcf80UL43fhPIIjv0ILG3kLhg6rB8JLjJ0MsN3NTLTDP8EayJf85E1/SLg6zvucHghIEHsdXmWwuCGHA92TKwa2YA6DSVs4RBcmjevkwSfT2Jdojy3scCw8Goyj0hYDANBOVQicyd5gbF1QgmLr8Da5cXWlbJJCks402ZuKcG4+McbOeNBc9eFtnUFiKHjQmNGOS4mYOsZ2t3Xug==",
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "6274c9d1-e379-4ae2-8e3d-4d380156d900",
+      "resourceGroup": "v4testbot",
+      "serviceName": "ahackbotab9d",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "c35b1ed7-8191-4433-9e7d-6f5f505d8324",
+      "appPassword": "Q6Ec9XQpkyp3w1P51TaN2Q==!kI1U/c5HNjcDEXI8uUMNYk5biFnrj00IRA/p1tfZhLQ=",
+      "endpoint": "https://ahackbot.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "S4lnk7+v2kKTvMb9XHZ3XA==!SqT8R4zVvu9yHgo04ZUuBNLATfDLiJvB8WGHMal44RJO2AP2DkwU7uq7SwtYrnWW",
+      "applicationId": "50c0fd1f-3c32-4fb7-8b4e-3921e6c0b160",
+      "apiKeys": {},
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "6274c9d1-e379-4ae2-8e3d-4d380156d900",
+      "resourceGroup": "v4testbot",
+      "serviceName": "AHackBot575ixl",
+      "type": "appInsights",
+      "id": "5"
+    }
+  ]
+}

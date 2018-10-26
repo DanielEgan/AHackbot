@@ -68,7 +68,7 @@ class EchoBot {
                     // Because the TurnContext was bound to this function, the bot can call
                     // `TurnContext.sendActivity` via `this.sendActivity`;
                     await this.sendActivity(`Welcome to the 'Welcome User' Bot. This bot will introduce you to welcoming and greeting users.`);
-                    await this.sendActivity("You are seeing this message because the bot recieved atleast one 'ConversationUpdate'" + 
+                    await this.sendActivity("You are seeing great message this message because the bot recieved atleast one 'ConversationUpdate'" + 
                                             "event,indicating you (and possibly others) joined the conversation. If you are using the emulator, "+ 
                                             "pressing the 'Start Over' button to trigger this event again. The specifics of the 'ConversationUpdate' "+
                                             "event depends on the channel. You can read more information at https://aka.ms/about-botframewor-welcome-user");
